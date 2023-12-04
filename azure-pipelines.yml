@@ -1,8 +1,7 @@
 trigger:
-- main
+- master
 
-pool:
-  vmImage: ubuntu-latest
+pool: Pool1
 strategy:
   matrix:
     Python311:
