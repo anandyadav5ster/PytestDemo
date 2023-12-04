@@ -1,0 +1,104 @@
+{
+  "uid" : "1639fc05b57df300",
+  "name" : "test_2",
+  "fullName" : "test_TC1#test_2",
+  "historyId" : "67e105d4c8afe3b79150b4cd5139ef1e",
+  "time" : {
+    "start" : 1679472069774,
+    "stop" : 1679472070039,
+    "duration" : 265
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setPath",
+    "time" : {
+      "start" : 1679472062305,
+      "stop" : 1679472065639,
+      "duration" : 3334
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "setPath::0",
+    "time" : {
+      "start" : 1679472073437,
+      "stop" : 1679472073557,
+      "duration" : 120
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_TC1"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-VLCFIUP"
+  }, {
+    "name" : "thread",
+    "value" : "13028-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_TC1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "365fdfca6ca1307f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1679472029398,
+        "stop" : 1679472029734,
+        "duration" : 336
+      }
+    }, {
+      "uid" : "a945c9e0bdbab5fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1679471332151,
+        "stop" : 1679471332410,
+        "duration" : 259
+      }
+    }, {
+      "uid" : "8341dc42a80e08f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1679468931398,
+        "stop" : 1679468931644,
+        "duration" : 246
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1639fc05b57df300.json",
+  "parameterValues" : [ ]
+}

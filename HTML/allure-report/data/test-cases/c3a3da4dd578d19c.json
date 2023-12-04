@@ -1,0 +1,83 @@
+{
+  "uid" : "c3a3da4dd578d19c",
+  "name" : "test_4",
+  "fullName" : "test_TC1#test_4",
+  "historyId" : "73abc4f63e2479735501db9c21e0202d",
+  "time" : {
+    "start" : 1679472029990,
+    "stop" : 1679472032720,
+    "duration" : 2730
+  },
+  "status" : "broken",
+  "statusMessage" : "AttributeError: module 'Locators' has no attribute 'ShirtInputbox'",
+  "statusTrace" : "setPath = None\n\n    @pytest.mark.jcpenney\n    def test_4(setPath):\n        driver.implicitly_wait(10)\n        driver.get(\"https://www.jcpenney.com/\")\n        driver.maximize_window()\n>       (Locators.ShirtInputbox).send_keys(\"Shirt\")\nE       AttributeError: module 'Locators' has no attribute 'ShirtInputbox'\n\ntest_TC1.py:63: AttributeError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setPath",
+    "time" : {
+      "start" : 1679472021660,
+      "stop" : 1679472025921,
+      "duration" : 4261
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "setPath::0",
+    "time" : {
+      "start" : 1679472033019,
+      "stop" : 1679472033154,
+      "duration" : 135
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "jcpenney"
+  }, {
+    "name" : "suite",
+    "value" : "test_TC1"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-VLCFIUP"
+  }, {
+    "name" : "thread",
+    "value" : "3004-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_TC1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "jcpenney" ]
+  },
+  "source" : "c3a3da4dd578d19c.json",
+  "parameterValues" : [ ]
+}

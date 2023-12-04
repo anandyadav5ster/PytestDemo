@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver.exe' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+      "children" : [ {
+        "name" : "test_Login",
+        "uid" : "a6bdd1c054ecb906",
+        "parentUid" : "7872ec6dc515c42e63780b6ffa483e12",
+        "status" : "broken",
+        "time" : {
+          "start" : 1679471336679,
+          "stop" : 1679471336683,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7872ec6dc515c42e63780b6ffa483e12"
+    }, {
+      "name" : "AttributeError: module 'Locators' has no attribute 'ShirtInputbox'",
+      "children" : [ {
+        "name" : "test_4",
+        "uid" : "a35f9e3d236289de",
+        "parentUid" : "5dec87d91f1fabc86a57fe1c7abe7016",
+        "status" : "broken",
+        "time" : {
+          "start" : 1679472070343,
+          "stop" : 1679472073234,
+          "duration" : 2891
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5dec87d91f1fabc86a57fe1c7abe7016"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

@@ -1,0 +1,137 @@
+{
+  "c35c47d3940a92235f2038ed01f1f1a6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ad833d11b05d0006",
+      "status" : "passed",
+      "time" : {
+        "start" : 1679472065642,
+        "stop" : 1679472069213,
+        "duration" : 3571
+      }
+    } ]
+  },
+  "73abc4f63e2479735501db9c21e0202d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a35f9e3d236289de",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: module 'Locators' has no attribute 'ShirtInputbox'",
+      "time" : {
+        "start" : 1679472070343,
+        "stop" : 1679472073234,
+        "duration" : 2891
+      }
+    } ]
+  },
+  "cff13a6ef401dd49c689d18e0dc80fad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "35235c9bf7133ec6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1679472070049,
+        "stop" : 1679472070334,
+        "duration" : 285
+      }
+    } ]
+  },
+  "c2ac1898ab65c54352b457cd2f2dbea8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5e1f5dfcd9d8fc4d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1679472069509,
+        "stop" : 1679472069768,
+        "duration" : 259
+      }
+    } ]
+  },
+  "38ec1ae0cbe5251bf2a90ff5f23e1810" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "67203a8061c64146",
+      "status" : "passed",
+      "time" : {
+        "start" : 1679472069213,
+        "stop" : 1679472069500,
+        "duration" : 287
+      }
+    } ]
+  },
+  "e851347e8382ef66fecde7638afd8023" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a6bdd1c054ecb906",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver.exe' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+      "time" : {
+        "start" : 1679471336679,
+        "stop" : 1679471336683,
+        "duration" : 4
+      }
+    } ]
+  },
+  "67e105d4c8afe3b79150b4cd5139ef1e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1639fc05b57df300",
+      "status" : "passed",
+      "time" : {
+        "start" : 1679472069774,
+        "stop" : 1679472070039,
+        "duration" : 265
+      }
+    } ]
+  }
+}

@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Mar 22 13:31:05 IST 2023","Wed Mar 22 13:31:09 IST 2023","3571","","test_TC1","","","","test_registration_valid_data",""
+"broken","Wed Mar 22 13:31:10 IST 2023","Wed Mar 22 13:31:13 IST 2023","2891","","test_TC1","","","","test_4",""
+"passed","Wed Mar 22 13:31:09 IST 2023","Wed Mar 22 13:31:10 IST 2023","265","","test_TC1","","","","test_2",""
+"passed","Wed Mar 22 13:31:09 IST 2023","Wed Mar 22 13:31:09 IST 2023","259","","test_TC1","","","","test_1",""
+"passed","Wed Mar 22 13:31:09 IST 2023","Wed Mar 22 13:31:09 IST 2023","287","","test_TC1","","","","test_registration_Invalid_data",""
+"passed","Wed Mar 22 13:31:10 IST 2023","Wed Mar 22 13:31:10 IST 2023","285","","test_TC1","","","","test_3",""
+"broken","Wed Mar 22 13:18:56 IST 2023","Wed Mar 22 13:18:56 IST 2023","4","","test_TC2","","","","test_Login",""

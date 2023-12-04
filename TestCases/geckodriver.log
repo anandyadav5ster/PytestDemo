@@ -1,0 +1,26 @@
+1688837072805	geckodriver	INFO	Listening on 127.0.0.1:54204
+1688837073286	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/8m/bpxqcw_j3dx5s0tyxwzx7zfm0000gn/T/rust_mozprofileBx92zd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688837074137	Marionette	INFO	Marionette enabled
+1688837074446	Marionette	INFO	Listening on port 54225
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 54225
+WebDriver BiDi listening on ws://127.0.0.1:54205
+1688837074870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54205/devtools/browser/9d501d58-9908-47e2-ab0e-67e5bffad3dd
+1688837110706	Marionette	INFO	Stopped listening on port 54225
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1688837114434	geckodriver	INFO	Listening on 127.0.0.1:54446
+1688837114940	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/8m/bpxqcw_j3dx5s0tyxwzx7zfm0000gn/T/rust_mozprofileTuo92r"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688837115544	Marionette	INFO	Marionette enabled
+1688837115663	Marionette	INFO	Listening on port 54458
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 54458
+WebDriver BiDi listening on ws://127.0.0.1:54447
+1688837116064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54447/devtools/browser/e32e8404-7d9f-4bb7-8f5f-3c13bc16371d
+1688837142427	Marionette	INFO	Stopped listening on port 54458
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

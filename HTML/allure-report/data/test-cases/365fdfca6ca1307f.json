@@ -1,0 +1,78 @@
+{
+  "uid" : "365fdfca6ca1307f",
+  "name" : "test_2",
+  "fullName" : "test_TC1#test_2",
+  "historyId" : "67e105d4c8afe3b79150b4cd5139ef1e",
+  "time" : {
+    "start" : 1679472029398,
+    "stop" : 1679472029734,
+    "duration" : 336
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setPath",
+    "time" : {
+      "start" : 1679472021660,
+      "stop" : 1679472025921,
+      "duration" : 4261
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "setPath::0",
+    "time" : {
+      "start" : 1679472033019,
+      "stop" : 1679472033154,
+      "duration" : 135
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_TC1"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-VLCFIUP"
+  }, {
+    "name" : "thread",
+    "value" : "3004-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_TC1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "365fdfca6ca1307f.json",
+  "parameterValues" : [ ]
+}
